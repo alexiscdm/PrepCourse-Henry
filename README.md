@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este proyecto es una prueba de como blablabla
+Este proyecto es una prueba blablabal
