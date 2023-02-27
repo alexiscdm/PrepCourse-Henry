@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Repo de prueba de módulo 2 de Henry
+Este proyecto es una prueba de como blablabla
